@@ -363,7 +363,7 @@ strong {
   }
 
   .sticky-wrapper {
-    position: relative;
+    /*position: relative;*/
     bottom: 76px;
   }
 }
